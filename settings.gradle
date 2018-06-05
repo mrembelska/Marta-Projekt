@@ -1,1 +1,3 @@
 rootProject.name = 'marta-projekt'
+include 'A.pierwszeZadania'
+
